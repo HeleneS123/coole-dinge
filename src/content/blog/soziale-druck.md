@@ -2,9 +2,10 @@
 title: 'Sozialer Druck'
 description: 'hier siehst du wie sozialer druck entsteht.'
 pubDate: 'Jun 19 2024'
-heroImage: '/blog-placeholder-1.jpg'
+heroImage: '/public/sozialerdruck.jpg.jpg'
 ---
-
+Foto von <a href="https://unsplash.com/de/@christnerfurt?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Christian Erfurt</a> auf <a href="https://unsplash.com/de/fotos/mann-der-sein-gesicht-mit-beiden-handen-bedeckt-wahrend-er-auf-der-bank-sitzt-sxQz2VfoFBE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
 # Sozialer Druck - Wenn die Gesellschaft uns formt
 
 Sozialer Druck ist ein Phänomen, das uns alle betrifft. Er entsteht, wenn wir uns gedrängt fühlen, unser Verhalten, unsere Einstellungen oder unsere Erscheinung an die Erwartungen anderer anzupassen. Ob in der Schule, am Arbeitsplatz oder in sozialen Medien – der Druck, dazuzugehören und den gesellschaftlichen Normen zu entsprechen, ist allgegenwärtig.
