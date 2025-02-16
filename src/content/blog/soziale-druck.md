@@ -1,8 +1,8 @@
 ---
 title: 'Sozialer Druck'
 description: 'hier siehst du wie sozialer druck entsteht.'
-pubDate: 'Jun 19 2024'
-heroImage: '/public/sozialerdruck.jpg.jpg'
+pubDate: 'Feb 16 2025'
+heroImage: '/images/sozialerdruck.jpg'
 ---
 Foto von <a href="https://unsplash.com/de/@christnerfurt?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Christian Erfurt</a> auf <a href="https://unsplash.com/de/fotos/mann-der-sein-gesicht-mit-beiden-handen-bedeckt-wahrend-er-auf-der-bank-sitzt-sxQz2VfoFBE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
       
