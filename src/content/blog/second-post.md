@@ -2,8 +2,10 @@
 title: 'Selbstetst: Leide ich unter sozialen Ängsten'
 description: 'Hier findest du es heraus'
 pubDate: 'Feb 17 2025'
-heroImage: '/blog-placeholder-4.jpg'
+heroImage: '/images/selbsttest.jpg'
 ---
+Foto von <a href="https://unsplash.com/de/@uns__nstudio?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unseen Studio</a> auf <a href="https://unsplash.com/de/fotos/person-die-auf-braunem-holztisch-in-der-nahe-von-weissem-keramikbecher-schreibt-s9CC2SKySJM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
 
 # Soziale Ängste erkennen: Ein Selbsttest
 
