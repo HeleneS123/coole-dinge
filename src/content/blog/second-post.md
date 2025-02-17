@@ -1,16 +1,61 @@
 ---
-title: 'Second post'
-description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 15 2022'
+title: 'Selbstetst: Leide ich unter sozialen Ängsten'
+description: 'Hier findest du es heraus'
+pubDate: 'Feb 17 2025'
 heroImage: '/blog-placeholder-4.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+# Soziale Ängste erkennen: Ein Selbsttest
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+Viele Menschen kennen das Gefühl von Unsicherheit in sozialen Situationen. Doch wann wird daraus eine soziale Angst? Dieser Selbsttest hilft Ihnen dabei, erste Anzeichen zu erkennen und einzuschätzen, ob Sie möglicherweise von sozialen Ängsten betroffen sind.
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+## Typische Anzeichen sozialer Ängste
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+Soziale Ängste können sich sowohl körperlich als auch emotional zeigen. Häufige Symptome sind:
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+- Herzklopfen und Schweißausbrüche in sozialen Situationen
+- Vermeidung von Gesprächen oder Gruppenaktivitäten
+- Intensive Angst vor negativer Bewertung durch andere
+- Schwierigkeiten, Blickkontakt zu halten
+- Gefühl der Anspannung bei alltäglichen sozialen Interaktionen
+
+## Selbsteinschätzung: Fragen, die Sie sich stellen können
+
+Nehmen Sie sich einen Moment Zeit und beantworten Sie für sich folgende Fragen. Je mehr Fragen Sie mit "Ja" beantworten, desto wahrscheinlicher ist es, dass Sie unter sozialen Ängsten leiden:
+
+1. **Alltagssituationen**
+   - Vermeiden Sie es, in der Öffentlichkeit zu essen oder zu trinken?
+   - Fällt es Ihnen schwer, in Geschäften nach dem Weg oder Produkten zu fragen?
+   - Haben Sie Angst davor, mit Fremden zu telefonieren?
+
+2. **Soziale Interaktionen**
+   - Fühlen Sie sich unwohl, wenn Sie im Mittelpunkt der Aufmerksamkeit stehen?
+   - Vermeiden Sie es, an sozialen Veranstaltungen teilzunehmen?
+   - Bereiten Ihnen Smalltalk-Situationen große Sorgen?
+
+3. **Körperliche Reaktionen**
+   - Bekommen Sie in sozialen Situationen oft Herzklopfen?
+   - Zittern Ihre Hände, wenn Sie sich beobachtet fühlen?
+   - Erröten Sie schnell und ist Ihnen das sehr unangenehm?
+
+4. **Gedankenmuster**
+   - Denken Sie häufig darüber nach, was andere über Sie denken könnten?
+   - Machen Sie sich oft Sorgen, sich zu blamieren?
+   - Analysieren Sie soziale Situationen im Nachhinein übermäßig kritisch?
+
+## Was können Sie tun?
+
+Wenn Sie viele dieser Fragen mit "Ja" beantwortet haben, ist das kein Grund zur Panik. Soziale Ängste sind behandelbar, und der erste Schritt ist bereits getan: Sie haben sich mit dem Thema auseinandergesetzt.
+
+Folgende Schritte können hilfreich sein:
+
+- Sprechen Sie mit einer Vertrauensperson über Ihre Gefühle
+- Suchen Sie sich professionelle Unterstützung bei einem Therapeuten
+- Informieren Sie sich über Selbsthilfegruppen in Ihrer Nähe
+- Lernen Sie schrittweise, sich sozialen Situationen zu stellen
+
+Bedenken Sie: Eine soziale Angststörung ist eine anerkannte psychische Erkrankung und keine persönliche Schwäche. Mit der richtigen Unterstützung können Sie lernen, besser damit umzugehen und Ihre Lebensqualität deutlich verbessern.
+
+## Wichtiger Hinweis
+
+Dieser Selbsttest ersetzt keine professionelle Diagnose. Wenn Sie unter sozialen Ängsten leiden, wenden Sie sich an Ihren Hausarzt oder direkt an einen Psychotherapeuten. Diese können eine genaue Diagnose stellen und Ihnen bei der Entwicklung geeigneter Bewältigungsstrategien helfen.
