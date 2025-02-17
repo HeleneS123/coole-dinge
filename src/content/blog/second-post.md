@@ -60,4 +60,4 @@ Bedenken Sie: Eine soziale Angststörung ist eine anerkannte psychische Erkranku
 
 ## Wichtiger Hinweis
 
-Dieser Selbsttest ersetzt keine professionelle Diagnose. Wenn Sie unter sozialen Ängsten leiden, wenden Sie sich an Ihren Hausarzt oder direkt an einen Psychotherapeuten. Diese können eine genaue Diagnose stellen und Ihnen bei der Entwicklung geeigneter Bewältigungsstrategien helfen.
+Dieser Selbsttest ersetzt keine professionelle Diagnose. Wenn Sie unter sozialen Ängsten leiden, wenden Sie sich an Ihren Hausarzt oder direkt an einen Psychotherapeuten. Diese können eine genaue Diagnose stellen und Ihnen bei der Entwicklung geeigneter Bewältigungsstrategien helfen. Sie Können auch einen kostenloses Erstgespräch mit mir vereinbaren.
